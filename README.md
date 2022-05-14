@@ -20,7 +20,10 @@ Corre el comando `npm run build` para generar un proyecto modo producción que s
 ### Deploy 📦
 # Heroku
 _La siguiente URL contiene la API REST de los personajes en Heroku [Heroku](https://app-dota2-v1.herokuapp.com/heroes/)_
-_Dicha URL estará contenida dentro del archivo helper.js ,que a su vez está contenido dentro de una carpeta con el mismo nombre, úbicada en el src de la aplicación.
+_Dicha URL estará contenida dentro del archivo helper.js ,que a su vez está contenido dentro de una carpeta con el mismo nombre, úbicada en el src de la aplicación_
+
+# Vercel
+_[Vercel](https://dota2-app-react-8rhd7y4kg-josedbolivarma.vercel.app/)_
 
 ## Built con 🛠️
 
