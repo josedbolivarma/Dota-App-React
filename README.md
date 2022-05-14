@@ -22,7 +22,7 @@ Corre el comando `npm run build` para generar un proyecto modo producción que s
 _La siguiente URL contiene la API REST de los personajes en Heroku [Heroku](https://app-dota2-v1.herokuapp.com/heroes/)_
 _Dicha URL estará contenida dentro del archivo helper.js ,que a su vez está contenido dentro de una carpeta con el mismo nombre, úbicada en el src de la aplicación.
 
-## Built with 🛠️
+## Built con 🛠️
 
 _Las herramientas utilizadas por el momento para construir esta aplicación son:_
 
@@ -31,8 +31,9 @@ _Las herramientas utilizadas por el momento para construir esta aplicación son:
 - [React-Router-Dom](https://reacttraining.com/react-router/) - Libreria de enrutamiento dinámico basado en componentes.
 - [React-Redux](https://redux.js.org/) - Libreria para el manejo de estados globales en la aplicación.
 - [Cloudinary](https://cloudinary.com/) - Servidor de imágenes y videos en la nube.
+- [Vercel](https://vercel.com/) - Desplegado en Vercel.
 
 ## Autor ✒️
 
 - **José David Bolívar Mayorar** - [josedbolivarma](https://github.com/josedbolivarma).
-⌨️ Creado ❤ por [josedbolivarma](https://github.com/josedbolivarma/) 🎧🎶 
+⌨️ Creado ♛ por [josedbolivarma](https://github.com/josedbolivarma/) 🎧🎶 
