@@ -27,7 +27,7 @@ _Dicha URL estará contenida dentro del archivo helper.js ,que a su vez está co
 _Las herramientas utilizadas por el momento para construir esta aplicación son:_
 
 - [React.js](https://reactjs.org/) - Librería JavaScript.
-- [Axios](https://axios-http.com/es/) - The library used to make requests to the API.
+- [Axios](https://axios-http.com/es/) - Libreria utilizada para el manejo de peticiones asincrónas hacia la API REST de Heroku.
 - [React-Router-Dom](https://reacttraining.com/react-router/) - Libreria de enrutamiento dinámico basado en componentes.
 - [React-Redux](https://redux.js.org/) - Libreria para el manejo de estados globales en la aplicación.
 - [Cloudinary](https://cloudinary.com/) - Servidor de imágenes y videos en la nube.
