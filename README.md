@@ -37,3 +37,5 @@ _Las herramientas utilizadas por el momento para construir esta aplicación son:
 
 - **José David Bolívar Mayorar** - [josedbolivarma](https://github.com/josedbolivarma).
 ⌨️ Creado ♛ por [josedbolivarma](https://github.com/josedbolivarma/) 🎧🎶 
+
+- No menos importante ... Fuente de inspiración - [Demon Slayer「AMV」Set Fire to the Rain (Adele)](https://www.youtube.com/watch?v=oEIdPlsqavQ)
