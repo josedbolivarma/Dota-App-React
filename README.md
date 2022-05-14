@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# APLICACIÓN DINÁMICA BIOGRÁFICA DE HÉROES ,NPC Y ESCENARIOS DE DOTA 2.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Una de mis apliaciones personales construidas con React y y Heroku, basada en el juego estilo MOBA de Dota 2_
 
-## Available Scripts
+## Comenzando 🚀
 
-In the project directory, you can run:
+1._Clona el repositorio. Puedes usar el siguiente link: (https://github.com/josedbolivarma/Dota-App-React/)._
+2._Ejecuta el comando $ npm install para instalar todas las dependencias del proyecto.
 
-### `npm start`
+### Up and running 📋
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Ejecuta el comando `npm start` para correr el proyecto.
+2. Ingresa la siguiente URL en tu navegador `http://localhost:3000` para visualizar el proyecto en desarrollo.
+3. Observa la lista de héroes para elegir, eres libre de seleccionar al que desees.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Build 🔧
 
-### `npm test`
+Corre el comando `npm run build` para generar un proyecto modo producción que será alojado en la carpeta build en el root del proyecto_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Deploy 📦
+# Heroku
+_La siguiente URL contiene la API REST de los personajes en Heroku [Heroku](https://app-dota2-v1.herokuapp.com/heroes/)_
+_Dicha URL estará contenida dentro del archivo helper.js ,que a su vez está contenido dentro de una carpeta con el mismo nombre, úbicada en el src de la aplicación.
 
-### `npm run build`
+## Built with 🛠️
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_Las herramientas utilizadas por el momento para construir esta aplicación son:_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [React.js](https://reactjs.org/) - Librería JavaScript.
+- [Axios](https://axios-http.com/es/) - The library used to make requests to the API.
+- [React-Router-Dom](https://reacttraining.com/react-router/) - Libreria de enrutamiento dinámico basado en componentes.
+- [React-Redux](https://redux.js.org/) - Libreria para el manejo de estados globales en la aplicación.
+- [Cloudinary](https://cloudinary.com/) - Servidor de imágenes y videos en la nube.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Autor ✒️
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **José David Bolívar Mayorar** - [josedbolivarma](https://github.com/josedbolivarma).
+⌨️ Creado ❤ por [josedbolivarma](https://github.com/josedbolivarma/) 🎧🎶 
